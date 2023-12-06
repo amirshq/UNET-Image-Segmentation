@@ -4,7 +4,7 @@
 
 ## Overview
 This project implements U-Net++, an advanced deep learning architecture for semantic segmentation, tailored for high-resolution aerial imagery. Our goal is to accurately segment different features in aerial images, such as buildings, roads, vegetation, and water bodies, which can be crucial for urban planning, environmental monitoring, and geographical mapping.
-
+![download (7)](https://github.com/amirshq/UNET-Image-Segmentation/assets/80384655/88b667b1-94ed-4901-9a69-627646fac3c0)
 
 ## Features
 - **Advanced Segmentation Model**: Utilizes the U-Net++ architecture for improved segmentation accuracy.
